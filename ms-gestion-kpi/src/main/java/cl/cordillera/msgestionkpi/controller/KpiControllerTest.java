@@ -1,3 +1,5 @@
+package cl.cordillera.msgestionkpi.controller; // <-- ¡ESTA LÍNEA ES OBLIGATORIA!
+
 import cl.cordillera.msgestionkpi.dto.KpiDTO;
 import cl.cordillera.msgestionkpi.model.EstadoKpi;
 import cl.cordillera.msgestionkpi.service.KpiService;
